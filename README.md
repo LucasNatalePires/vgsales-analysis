@@ -51,7 +51,7 @@ Only features relevant to the four questions were retained for the final analysi
 
 ## 🖼️ Poster
 
-![Poster](poster.png)
+![Poster](Poster.png)
 
 ---
 
@@ -61,6 +61,7 @@ Only features relevant to the four questions were retained for the final analysi
 |------|-------------|
 | `CA1_Visu_Comu.ipynb` | Jupyter Notebook with full EDA, cleaning, and visualizations |
 | `poster.png` | Exported poster image |
+| `L7_Data_Visualization_and_Communication_CA1_v5.docx` | Assignment brief — CCT College Dublin |
 
 ---
 
@@ -77,5 +78,3 @@ Only features relevant to the four questions were retained for the final analysi
 ## 📚 References
 
 Harvard-style references included in the Jupyter Notebook.
-
-Só isso — tabela de arquivos com os dois ficheiros que vão de facto para o repositório.
